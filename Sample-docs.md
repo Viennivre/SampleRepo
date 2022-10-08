@@ -9,6 +9,7 @@ This workshop have the following persons in attended:
 3. Victoria
 4. Aishat
 5. Jacinta
+6. Ijeoma
 
 The following tools are used for the workshop
 
@@ -22,5 +23,8 @@ To write using VSCode you need to create you file and save it as markdown. Markd
 |---------|-----------|
 |Header| Title|
 |Paragraph| Text|
+
+Question:
+When creating a pull request, do I have to merge the pull request before the pull request is sent to the owner of the repository 
 
 
