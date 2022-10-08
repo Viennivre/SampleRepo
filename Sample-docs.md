@@ -25,6 +25,4 @@ To write using VSCode you need to create you file and save it as markdown. Markd
 |Paragraph| Text|
 
 Question:
-When creating a pull request, do I have to merge the pull request before the pull request is sent to the owner of the repository 
-
-
+When creating a pull request, do I have to merge the pull request before the pull request is sent to the owner of the repository or I'm supposed to leave it open?
